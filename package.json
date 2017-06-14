@@ -1,0 +1,23 @@
+{
+  "name": "basic-express-server",
+  "version": "0.0.1",
+  "description": "Sample app for creating a web server in Node using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "body-parser": "^1.17.2",
+    "images": "^3.0.0"
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "repository": {},
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
